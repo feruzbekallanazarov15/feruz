@@ -171,7 +171,7 @@ span{
     height: 56px;
     flex-shrink: 0;
     border-radius: 12px;
-    background: var(--red-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #F55);
+    background: var(--yellow-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #FFB21E);
     margin-left: 40px;
     display: flex;
     align-items: center;
@@ -183,7 +183,7 @@ span{
     height: 56px;
     flex-shrink: 0;
     border-radius: 12px;
-    background: var(--red-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #F55);
+    background: var(--green-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #00BB8F);
     margin-left: 40px;
     display: flex;
     align-items: center;
@@ -195,8 +195,8 @@ span{
     height: 56px;
     flex-shrink: 0;
     border-radius: 12px;
-    background: var(--red-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #F55);
-    margin-left: 40px;
+    border-radius: 12px;
+    background: var(--blue-95-white, linear-gradient(0deg, rgba(255, 255, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%), #1125D6);
     display: flex;
     align-items: center;
     justify-content: space-between;
